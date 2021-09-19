@@ -5,3 +5,5 @@ git commit -m ""
 git push
 
 git merge
+
+git rebase 
