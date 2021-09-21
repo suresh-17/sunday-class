@@ -13,3 +13,5 @@ git checkout
 git clone
 
 git log
+
+git branch
