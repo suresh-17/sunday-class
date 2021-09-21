@@ -11,3 +11,5 @@ git rebase
 git checkout
 
 git clone
+
+git log
