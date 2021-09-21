@@ -7,3 +7,5 @@ git push
 git merge
 
 git rebase 
+
+git checkout
